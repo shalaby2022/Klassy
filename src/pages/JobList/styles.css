@@ -1,0 +1,16 @@
+.JobsWrapper {
+  background: #eee;
+  padding: 10px;
+}
+
+.icon {
+  display: inline-block;
+  width: 23px;
+  height: 23px;
+}
+
+.icon_2 {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+}
